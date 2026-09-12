@@ -87,7 +87,7 @@
 .staff {
   background-image: url("../images/staff_picks_background.jpg");
   padding: 100px 0 140px;
-  background-size: 100%;
+  background-size: cover;
   background-position: center;
 }
 
@@ -246,7 +246,7 @@
   left: 319px;
 }
 
-.person_name_burdidge {
+.person_name_burbidge {
   top: 96px;
   right: 125px;
 }
